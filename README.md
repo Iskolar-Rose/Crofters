@@ -5,7 +5,4 @@ We use HTML, CSS, JS and PHP.
 
 Webpages:
 
-companyfeed
-farmerfeed
-index
-login
+companyfeed,farmerfeed,index,login
